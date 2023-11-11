@@ -1,5 +1,6 @@
 # QRcode
 Use in kali Linux & Termux
+
 How to Use:-
 
 1. pip install qrcode
