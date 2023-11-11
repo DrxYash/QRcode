@@ -1,5 +1,5 @@
 # QRcode
-How to Use
+How to Use:-
 
 1. pip install qrcode
 2. git clone https://github.com/DrxYash/QRcode.git
